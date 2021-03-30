@@ -12,7 +12,7 @@ Building And Package
 ====================
 (1) install ceph/java/maven.
 
-(2) Compile under the "hadoop-fs-ceph" :
+(2) Compile under the "hadoop-fs-ceph/" :
 
     mvn package -DskipTests
 
